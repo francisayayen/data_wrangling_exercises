@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Science & Environment]]></title>
+        <description><![CDATA[BBC News - Science & Environment]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Science &amp; Environment</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 06 Jan 2021 17:09:13 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Climate change: Alaskan wilderness opens up for oil exploration]]></title>
+            <description><![CDATA[The Trump administration pushes ahead with first oil lease sales in an Arctic wildlife refuge.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55561536</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55561536</guid>
+            <pubDate>Wed, 06 Jan 2021 13:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus variants and mutations: The science explained]]></title>
+            <description><![CDATA[Scientists are racing to find out more about variants of the coronavirus that are spreading fast.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55404988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55404988</guid>
+            <pubDate>Wed, 06 Jan 2021 14:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whitehaven coal mine plans progress as government refuses to call it in]]></title>
+            <description><![CDATA[The government rejects holding an inquiry into plans for a coal mine, meaning it can progress.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cumbria-55561852</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-55561852</guid>
+            <pubDate>Wed, 06 Jan 2021 15:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palm cockatoo: Why a unique ‘drumming’ bird is in peril]]></title>
+            <description><![CDATA[The palm cockatoo is thought to be the only bird to use tools musically to attract a mate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-55541188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-55541188</guid>
+            <pubDate>Wed, 06 Jan 2021 00:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why 2021 could be turning point for tackling climate change]]></title>
+            <description><![CDATA[This year could be a "make or break" moment in the fight against global warming.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55498657</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55498657</guid>
+            <pubDate>Fri, 01 Jan 2021 00:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Islanders help rescue orca stranded on Orkney beach]]></title>
+            <description><![CDATA[Volunteers led the rescue effort to save the young 11ft-long stranded orca in Orkney.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-55559943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-55559943</guid>
+            <pubDate>Wed, 06 Jan 2021 12:23:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyme Regis Mary Anning statue designs released]]></title>
+            <description><![CDATA[The statue to palaeontologist Mary Anning will stand near her birthplace on Lyme Regis seafront.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-55546699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-55546699</guid>
+            <pubDate>Tue, 05 Jan 2021 12:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Curiosity rover: Watching an eclipse from Mars]]></title>
+            <description><![CDATA[What do eclipses look like on Mars? Nasa rovers see the planet's moons pass in front of the Sun.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55562154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55562154</guid>
+            <pubDate>Wed, 06 Jan 2021 12:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I'm feeling hopeful about the environment in 2021]]></title>
+            <description><![CDATA[The BBC's Tom Heap explores exciting emissions-saving ideas that could help save the planet.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55429607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55429607</guid>
+            <pubDate>Mon, 04 Jan 2021 00:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bird charity warns of harm from new wind farm]]></title>
+            <description><![CDATA[The giant development lies 75 miles away from England's largest sea bird colony in Yorkshire.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55509225</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55509225</guid>
+            <pubDate>Sat, 02 Jan 2021 01:55:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five ways to reduce your carbon footprint]]></title>
+            <description><![CDATA[Climate activists explain how individuals can help reduce their carbon emissions.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55437567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55437567</guid>
+            <pubDate>Sat, 02 Jan 2021 00:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexican fisherman 'dies after attack on Sea Shepherd conservationists']]></title>
+            <description><![CDATA[Sea Shepherd says the collision happened after it came under attack in the Gulf of California.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-55540506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-55540506</guid>
+            <pubDate>Tue, 05 Jan 2021 03:25:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hair ice: The strange phenomenon of 'candy floss' on trees]]></title>
+            <description><![CDATA[The unusual phenomenon looks like candy floss on the trees - but touch it and it melts away.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-55531529</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-55531529</guid>
+            <pubDate>Mon, 04 Jan 2021 13:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Year Honours 2021: 'Green' economist recognised]]></title>
+            <description><![CDATA[Prof Dieter Helm is among the environmentalists and scientists who have been recognised.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55489720</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55489720</guid>
+            <pubDate>Wed, 30 Dec 2020 22:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woolly rhino from Ice Age unearthed in Russian Arctic]]></title>
+            <description><![CDATA[Found with most of its organs intact, the rhino is thought to have lived more than 20,000 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55490037</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55490037</guid>
+            <pubDate>Wed, 30 Dec 2020 22:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lookahead 2021: What's happening in the world of science?]]></title>
+            <description><![CDATA[The BBC's global science correspondent Rebecca Morelle looks at what's coming up in the next year.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55369012</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55369012</guid>
+            <pubDate>Thu, 31 Dec 2020 00:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan developing wooden satellites to cut space junk]]></title>
+            <description><![CDATA[A Japanese forestry firm has partnered with Kyoto University in what would be a world first.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55463366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55463366</guid>
+            <pubDate>Tue, 29 Dec 2020 01:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green body gives verdict on Boris Johnson carbon-cutting policies]]></title>
+            <description><![CDATA[The Green Alliance says there is gap between the PM's plans and what is needed to meet carbon targets.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55426155</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55426155</guid>
+            <pubDate>Tue, 29 Dec 2020 08:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Extreme weather causes huge losses in 2020]]></title>
+            <description><![CDATA[Hurricanes, floods and wildfires wreaked havoc, causing deaths and a huge financial impact.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55416013</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55416013</guid>
+            <pubDate>Sun, 27 Dec 2020 23:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atlantic discovery: 12 new species 'hiding in the deep']]></title>
+            <description><![CDATA[A dozen ocean species new to science could already be threatened by climate change, scientists find.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55427860</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55427860</guid>
+            <pubDate>Mon, 28 Dec 2020 12:39:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Lewis Hamilton is helping make racing greener]]></title>
+            <description><![CDATA[Lewis Hamilton isn't just the world's most successful F1 driver, he's also a key backer of a new off-road electric vehicle racing series called Extreme E.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55414712</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55414712</guid>
+            <pubDate>Sat, 26 Dec 2020 00:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What has Covid done for climate crisis?]]></title>
+            <description><![CDATA[Lockdowns around the world have led to record falls in CO2 emissions. But will this lead to long lasting change?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55412079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55412079</guid>
+            <pubDate>Sun, 27 Dec 2020 00:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portugal outrage after Spanish hunters massacre 500 wild animals]]></title>
+            <description><![CDATA[Officials seek a criminal probe after photos of 540 deer and boar corpses are shared on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55435940</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55435940</guid>
+            <pubDate>Thu, 24 Dec 2020 13:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wildfire smoke may spread infectious disease]]></title>
+            <description><![CDATA[Smoke from wildfires could be a surprising new route for the spread of microbes, experts believe.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55350185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55350185</guid>
+            <pubDate>Fri, 18 Dec 2020 00:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: 2021 will be cooler but still in top six warmest]]></title>
+            <description><![CDATA[Next year will be slightly cooler thanks to La Niña, but will still be one of the hottest on record.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55365414</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55365414</guid>
+            <pubDate>Fri, 18 Dec 2020 19:36:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Snowy UK winters could become thing of the past]]></title>
+            <description><![CDATA[By the 2040s most of southern England may no longer get sub-zero days, new Met Office data suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55179603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55179603</guid>
+            <pubDate>Sun, 06 Dec 2020 19:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Astronaut Scott Kelly: How to survive a year in space]]></title>
+            <description><![CDATA[Record-breaking astronaut Scott Kelly talks about living in space and his desire to go back.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55415233</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55415233</guid>
+            <pubDate>Fri, 25 Dec 2020 00:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Space images: The best of 2020]]></title>
+            <description><![CDATA[There was stunning cosmic imagery to feast on over the past year - here's our pick of the offerings.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55057865</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55057865</guid>
+            <pubDate>Tue, 29 Dec 2020 00:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SLS: Crucial test for Nasa's 'mega-rocket']]></title>
+            <description><![CDATA[Part of a giant rocket that will send humans back to the Moon has undergone a critical test.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-54583587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-54583587</guid>
+            <pubDate>Mon, 21 Dec 2020 20:43:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nasa's Mars rover and the 'seven minutes of terror']]></title>
+            <description><![CDATA[The US space agency releases an animation to show how its Perseverance robot will land on Mars.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55413966</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55413966</guid>
+            <pubDate>Wed, 23 Dec 2020 08:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk's Starship prototype makes a big impact]]></title>
+            <description><![CDATA[The US entrepreneur's latest Starship rocket prototype impresses in flight, but crashes on landing.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55239628</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55239628</guid>
+            <pubDate>Wed, 09 Dec 2020 23:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OneWeb satellite company launches into new era]]></title>
+            <description><![CDATA[The broadband network owned by UK taxpayers and an Indian conglomerate sends up 36 new satellites.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55365434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55365434</guid>
+            <pubDate>Fri, 18 Dec 2020 12:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christmas star: Jupiter and Saturn align in the night sky]]></title>
+            <description><![CDATA[Jupiter and Saturn - the Solar System's largest planets - have crossed paths in the night sky.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55364664</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55364664</guid>
+            <pubDate>Tue, 22 Dec 2020 03:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Josef Aschbacher to be next European Space Agency boss]]></title>
+            <description><![CDATA[One task for the Austrian will be managing the interests of EU and non-EU states, such as the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55351085</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55351085</guid>
+            <pubDate>Thu, 17 Dec 2020 15:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capella delivers super sharp satellite radar pictures]]></title>
+            <description><![CDATA[US start-up Capella is in the vanguard of companies changing the way satellites see the Earth.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55326441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55326441</guid>
+            <pubDate>Wed, 16 Dec 2020 14:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China's Chang'e-5 mission returns Moon samples]]></title>
+            <description><![CDATA[A capsule lands in Inner Mongolia with the first lunar rock to be brought to Earth in 44 years.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55323176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55323176</guid>
+            <pubDate>Wed, 16 Dec 2020 18:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hayabusa-2: Pieces of an asteroid found inside space capsule]]></title>
+            <description><![CDATA[Scientists in Japan open the Hayabusa-2 space capsule that landed just over a week ago.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55315502</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55315502</guid>
+            <pubDate>Tue, 15 Dec 2020 09:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hayabusa-2: Capsule with asteroid samples in 'perfect' shape]]></title>
+            <description><![CDATA[A team retrieves a capsule carrying the first significant quantities of rock from an asteroid.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55201662</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55201662</guid>
+            <pubDate>Sun, 06 Dec 2020 10:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Ugandan Nasa scientist Catherine Nakalembe uses satellites to boost farming]]></title>
+            <description><![CDATA[Catherine Nakalembe won this year's Africa Food Prize for pioneering work using satellite images.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55333624</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55333624</guid>
+            <pubDate>Sun, 27 Dec 2020 01:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DeepMind's AI agent MuZero could turbocharge YouTube]]></title>
+            <description><![CDATA[The successor to AlphaGo is being used to create a more efficient type of video compression.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-55403473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55403473</guid>
+            <pubDate>Wed, 23 Dec 2020 16:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The best science long reads of 2020]]></title>
+            <description><![CDATA[A selection of the best science and environment features published this year.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55057858</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55057858</guid>
+            <pubDate>Wed, 30 Dec 2020 09:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Wuhan scientist would 'welcome' visit probing lab leak theory]]></title>
+            <description><![CDATA[A top Chinese scientist addresses claims the coronavirus leaked from her lab in the city of Wuhan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-55364445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-55364445</guid>
+            <pubDate>Mon, 21 Dec 2020 23:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ivory: Elephant decline revealed by shipwreck cargo]]></title>
+            <description><![CDATA[A forensic examination of the cargo reveals the devastation of populations caused by the trade.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55340975</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55340975</guid>
+            <pubDate>Thu, 17 Dec 2020 16:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['World's ugliest orchid' tops list of new discoveries]]></title>
+            <description><![CDATA[Scientists find 156 new plants and fungi, including six new species of toadstool in British woodlands.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55339987</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55339987</guid>
+            <pubDate>Thu, 17 Dec 2020 09:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: 700-year history of wind recorded in island mud]]></title>
+            <description><![CDATA[Lake sediments on remote Marion Island tell the story of the Southern Hemisphere's westerlies.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55260908</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55260908</guid>
+            <pubDate>Fri, 11 Dec 2020 07:57:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Covid strain: How worried should we be?]]></title>
+            <description><![CDATA[Scientists will keep a close eye on this variant to see if it is a better spreader than others.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55312505</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55312505</guid>
+            <pubDate>Tue, 15 Dec 2020 04:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Law used as stick to beat government]]></title>
+            <description><![CDATA[Plans for airports, energy and roads are facing multiple legal challenges over climate commitments.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55368922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55368922</guid>
+            <pubDate>Sat, 19 Dec 2020 00:13:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
