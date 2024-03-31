@@ -10,9 +10,9 @@ import csv
 
 # open the `202009CitibikeTripdataExample.csv` file in read ("r") mode
 # this file should be in the same folder as our Python script or notebook
-source_file = open("202009CitibikeTripdataExample.csv","r")
+source_file = open("C:\\Users\\f_ayx\\OneDrive\\Documents\\data_wrangling_exercises\\chapter_4_examples\\standalone_files\\202009CitibikeTripdataExample.csv","r")
 
-# pass our `source_file` as an ingredient to the the `csv` library's
+# pass our `source_file` as an ingredient to the `csv` library's
 # DictReader "recipe".
 # Store the result in a variable called `citibike_reader`
 citibike_reader = csv.DictReader(source_file)
@@ -23,5 +23,5 @@ citibike_reader = csv.DictReader(source_file)
 print(citibike_reader.fieldnames)
 
 # let's just print out the first 5 rows
-for i in range(0,5):
-    print (next(citibike_reader))
+for i in range(0, 5):
+    print(next(citibike_reader))

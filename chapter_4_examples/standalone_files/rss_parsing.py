@@ -13,23 +13,26 @@ from lxml import etree
 import csv
 
 # choose a filename, for simplicity
-filename = "BBC News - Science Environment XML Feed"
+filename = "BBC_News_S&E_XML_Feed"
+path = "C:\\Users\\f_ayx\\OneDrive\\Documents\\data_wrangling_exercises\\chapter_4_examples\\standalone_files\\"
 
 # open our data file in read format, using "rb" as the "mode"
-xml_source_file = open(filename+".xml","rb")
+xml_source_file = open(path+filename+".xml", "rb")
 
-# pass our xml_source_file as an ingredient to the the `lxml` library's
+# pass our xml_source_file as an ingredient to the `lxml` library's
 # `etree.parse()` method and store the result in a variable called `xml_doc`
 xml_doc = etree.parse(xml_source_file)
 
 # start by getting the current xml document's "root" element
 document_root = xml_doc.getroot()
+# let's print it out to see what it looks like
+print(etree.tostring(document_root))
 
 # if the document_root is a well-formed XML element
 if etree.iselement(document_root):
 
     # create our output file, naming it "rss_"+filename+".csv"
-    output_file = open("rss_"+filename+".csv","w")
+    output_file = open(path+"rss_"+filename+".csv", "w")
 
     # use the `csv` library's "writer" recipe to easily write rows of data
     # to `output_file`, instead of reading data *from* it
@@ -60,7 +63,7 @@ if etree.iselement(document_root):
     # write the contents of `tag_list` to our output file as column headers
     output_writer.writerow(tag_list)
 
-    # now we want to grab *every* <item> elment in our file
+    # now we want to grab *every* <item> element in our file,
     # so we use the `findall()` method instead of `find()`
     for item in main_channel.findall('item'):
 

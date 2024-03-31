@@ -11,16 +11,17 @@ import csv
 
 # choose a filename
 filename = "U6_FRED_data"
+path = "C:\\Users\\f_ayx\\OneDrive\\Documents\\data_wrangling_exercises\\chapter_4_examples\\standalone_files\\"
 
 # open the file in read format ("r") as usual
-json_source_file = open(filename+".json","r")
+json_source_file = open(path+filename+".json","r")
 
 # pass the `json_source_file` as an ingredient to the json library's `load()`
 # method and store the result in a variable called `json_data`
 json_data = json.load(json_source_file)
 
 # create our output file, naming it "json_"+filename
-output_file = open("json_"+filename+".csv","w")
+output_file = open(path+"json_"+filename+".csv","w")
 
 # use the `csv` library's "writer" recipe to easily write rows of data
 # to `output_file`, instead of reading data *from* it

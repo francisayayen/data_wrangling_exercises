@@ -16,11 +16,11 @@ import csv
 
 # choose a filename
 filename = "U6_FRED_data"
-
+path = "C:\\Users\\f_ayx\\OneDrive\\Documents\\data_wrangling_exercises\\chapter_4_examples\\standalone_files\\"
 # open our data file in read format, using "rb" as the "mode"
-xml_source_file = open(filename+".xml","rb")
+xml_source_file = open(path+filename+".xml", "rb")
 
-# pass our xml_source_file as an ingredient to the the `lxml` library's
+# pass our xml_source_file as an ingredient to the `lxml` library's
 # `etree.parse()` method and store the result in a variable called `xml_doc`
 xml_doc = etree.parse(xml_source_file)
 
@@ -34,7 +34,7 @@ print(etree.tostring(document_root))
 if etree.iselement(document_root):
 
     # create our output file, naming it "xml_"+filename+".csv
-    output_file = open("xml_"+filename+".csv","w")
+    output_file = open("xml_"+filename+".csv", "w")
 
     # use the `csv` library's "writer" recipe to easily write rows of data
     # to `output_file`, instead of reading data *from* it
@@ -43,6 +43,7 @@ if etree.iselement(document_root):
     # grab the first element of our xml document (using `document_root[0]`)
     # and write its attribute keys as column headers to our output file
     output_writer.writerow(document_root[0].attrib.keys())
+    # print(document_root[0].attrib.keys())
 
     # now, we need to loop through every element in our XML file
     for child in document_root:

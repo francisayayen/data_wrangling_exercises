@@ -7,7 +7,7 @@
 # import the `csv` library, to create our output file
 import csv
 
-filename = "ghcnd-stations"
+filename = "C:\\Users\\f_ayx\\OneDrive\\Documents\\data_wrangling_exercises\\chapter_4_examples\\standalone_files\\ghcnd-stations"
 
 # reading from a basic text file doesn't require any special libraries
 # so we'll just open the file in read format ("r") as usual
